@@ -1,0 +1,5 @@
+1. Workers AI
+Variable name: AI
+
+2. KV Namespace
+Variable name: CHAT_HISTORY

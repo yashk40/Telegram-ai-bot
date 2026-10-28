@@ -1,0 +1,13 @@
+# Environment & local variables
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
